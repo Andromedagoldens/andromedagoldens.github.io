@@ -1,4 +1,8 @@
 # andromedagoldens.github.io
+git add index.html logo.png
+git commit -m "Přidán základní web Andromeda Goldens"
+git push
+
 <!DOCTYPE html><html lang="cs">
 <head>
   <meta charset="UTF-8" />
